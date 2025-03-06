@@ -208,10 +208,10 @@ Where _<modifier_set>_ has the form:
 and each modifier is one of:
 
 	*C* - Control++
-*M* - Meta/Super++
-*A* - Alt++
-*S* - Shift++
-*G* - AltGr
+	*M* - Meta/Super++
+	*A* - Alt++
+	*S* - Shift++
+	*G* - AltGr
 
 Finally, each layer heading is followed by a set of bindings which take the form:
 
